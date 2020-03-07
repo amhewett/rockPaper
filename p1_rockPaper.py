@@ -7,7 +7,7 @@ Created on Feb 1, 2020
      
 keepPlaying = True
 while (keepPlaying):
-        print("Welcome to R, P, & S! The rules are best out of 3. Press 'q' to quit! And 1 for Rock, 2 for Paper and 3 for Scissor")
+        print("Welcome to R, P, & S! The rules are best out of 3. Press 'q' to quit!")
         import random
         userpoints = 0
         computerpoints = 0
