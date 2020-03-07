@@ -1,0 +1,16 @@
+Objective: the objective is to make a rock, paper, and scissors game.
+
+we will:
+- create code that checks who won each round
+- create code that takes the input (choices) from the user. 
+- we will create code that takes 'input' from the computer. 
+- check if the user wants to quit OR if the user doesn't enter one of the 
+options.
+    - "q" for quit or mispelling.
+- loop each round of the game
+    - 3 rounds
+- add statements at the end and beginning of each round to welcome and thank
+the user. 
+- loop the whole game, so that they can keep playing until they choose to quit. 
+
+    
